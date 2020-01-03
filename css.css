@@ -1,0 +1,36 @@
+<style>
+body{
+	text-align: center;
+	background-color: pink;
+	align:center;
+}
+a{
+	text-decoration:none;
+}
+#krishna{
+	color:black;
+	background-color:red;
+	text-align:center;
+}
+h1{
+	align:center;
+	color:blue;
+}
+
+h2{
+	color:blue;
+}
+h3{
+	color:blue;
+}
+ul{
+	list-style:none;
+}
+#bohra{
+	position:fixed; 
+	weight:1000%; 
+	height:60p; 
+	background:white; 
+	bottom:0
+}
+</style>
